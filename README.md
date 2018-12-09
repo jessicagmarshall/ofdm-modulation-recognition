@@ -1,6 +1,6 @@
-# OFDM Modulation Recognition Using Convolutional Neural Networks
+## OFDM Modulation Recognition Using Convolutional Neural Networks
 
-A study of the application of convolutional neural networks to the problem of Orthogonal Frequency Division Multiplexing (OFDM) modulation recognition. 
+A study of the application of convolutional neural networks to the problem of Orthogonal Frequency Division Multiplexing (OFDM) modulation recognition.
 
 MATLAB files are used to generate noiseless and noisy data examples to train and test the neural network created in net.py and read_data.py
 
